@@ -9,4 +9,5 @@
 <br><br><br><br>
 # WhoAmI?
 ### I am a current student a Boise State attempting to get a degree in computer science with an emphasis on cybersecurity. I am from Littleton Colorado and I am a big fan of military uniform history!
-[!IMPORTANT]
+>[!IMPORTANT]
+> There is something that needs your attention, are you a fan of right to repair? Do you believe that digital locks should be broken for the good of consumers? follow the link to the FULU foundation to get section 1201 of the DMCA reformed for the better!
